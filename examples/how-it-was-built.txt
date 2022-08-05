@@ -1,0 +1,25 @@
+#t2mla
+!AUTHOR: Christian Scott
+!INSTRUCTOR: Mr. Scott
+!CLASS: RS 101
+!DATE: 2022-08-01
+!TITLE: txt2mla: A Study of Preference
+!CONTENT:
+	Software is a product of necessity. Every tool we build has some convenience
+factor to it. Even entertainment applications, like video games, make it easy
+for users to explore new worlds in real time, of their own imagination, without
+the effort to create it themselves. txt2mla is one of these programs. I wrote it
+in order to be able to write my essays in a medium I prefer, rather than using
+a specified program. The program just automates the usual conversion of copy and
+paste.
+
+	You may be thinking to yourself, "Why not just do it yourself?". Well, the
+computer can do it better, and faster. Humans make mistakes. I usually lose
+points because my MLA format sucks. By making the computer do the nitpicky work
+for me, I can focus my time on more important things, like perfecting my essay,
+or sleeping.
+
+	Of course, to get these savings, I have to write the program. This is your
+up-front investment. But once you make the investment, then you never have to
+again (most of the time). I invest my time this summer to improve my experience
+in the fall.
